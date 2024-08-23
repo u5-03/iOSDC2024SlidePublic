@@ -1,0 +1,60 @@
+{
+  "originHash" : "56ca1989a64cecc0ba5213be3dd830c82b38259384b14b0ada43665aa7b7c1e6",
+  "pins" : [
+    {
+      "identity" : "pianoui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/u5-03/PianoUI",
+      "state" : {
+        "revision" : "e7ed68a80de9044cefadce87a1162e705b45e369",
+        "version" : "0.3.0"
+      }
+    },
+    {
+      "identity" : "slidekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mtj0928/SlideKit",
+      "state" : {
+        "revision" : "53c354da986efe0dba624c074765417744bc6aa3",
+        "version" : "0.4.0"
+      }
+    },
+    {
+      "identity" : "splash",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JohnSundell/Splash",
+      "state" : {
+        "revision" : "7f4df436eb78fe64fe2c32c58006e9949fa28ad8",
+        "version" : "0.16.0"
+      }
+    },
+    {
+      "identity" : "swift-algorithms",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-algorithms.git",
+      "state" : {
+        "revision" : "f6919dfc309e7f1b56224378b11e28bab5bccc42",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics.git",
+      "state" : {
+        "revision" : "0a5bc04095a675662cf24757cc0640aa2204253b",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "64889f0c732f210a935a0ad7cda38f77f876262d",
+        "version" : "509.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}

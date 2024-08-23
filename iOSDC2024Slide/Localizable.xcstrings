@@ -1,0 +1,1145 @@
+{
+  "sourceLanguage" : "ja",
+  "strings" : {
+    " " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        }
+      }
+    },
+    " / " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " / "
+          }
+        }
+      }
+    },
+    "・" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "・"
+          }
+        }
+      }
+    },
+    "「この電子ピアノは追加のアダプターを購入すれば、BluetoothでのMIDI通信も実現できます。」" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"This digital piano can also achieve MIDI communication via Bluetooth if you purchase an additional adapter.\""
+          }
+        }
+      }
+    },
+    "%@. " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@. "
+          }
+        }
+      }
+    },
+    "%lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld / %2$lld"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "%lld. " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld. "
+          }
+        }
+      }
+    },
+    "And..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "And..."
+          }
+        }
+      }
+    },
+    "Apple PlatformではCore MIDIのframeworkを使って、利用することができる" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On Apple Platforms, it can be used with the Core MIDI framework."
+          }
+        }
+      }
+    },
+    "Black(黒鍵盤)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Black key"
+          }
+        }
+      }
+    },
+    "byTheWay" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "By the way…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ちなみに..."
+          }
+        }
+      }
+    },
+    "C(ド)~B(シ)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C~B"
+          }
+        }
+      }
+    },
+    "Connectionを作成" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create Connection"
+          }
+        }
+      }
+    },
+    "connectWirelessDevice" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Can be used on devices that do not support wired connections!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "有線を繋げないデバイスでも利用できる！"
+          }
+        }
+      }
+    },
+    "Core Midi" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Core Midi"
+          }
+        }
+      }
+    },
+    "Custom Style Slide" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Style Slide"
+          }
+        }
+      }
+    },
+    "degital_piano" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Digital Piano"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "電子ピアノ"
+          }
+        }
+      }
+    },
+    "degitalPianoEqualGadget" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Digital Piano = Gadget"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "電子ピアノ=ガジェット"
+          }
+        }
+      }
+    },
+    "Header Slide Style" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Header Slide Style"
+          }
+        }
+      }
+    },
+    "Hello, world!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello, world!"
+          }
+        }
+      }
+    },
+    "https://developer.apple.com/documentation/coremidi/" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://developer.apple.com/documentation/coremidi/"
+          }
+        }
+      }
+    },
+    "https://github.com/orchetect/MIDIKit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://github.com/orchetect/MIDIKit"
+          }
+        }
+      }
+    },
+    "https://orchetect.github.io/MIDIKit/documentation/midikit/" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://orchetect.github.io/MIDIKit/documentation/midikit/"
+          }
+        }
+      }
+    },
+    "I developed App of" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I developed App of"
+          }
+        }
+      }
+    },
+    "implementationAppOfPianoWithStroke" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This time, I implemented an app that can display the strength with which you strike the piano keys."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "今回はピアノの鍵盤を叩く強さを\n表示できるアプリを実装しました"
+          }
+        }
+      }
+    },
+    "Input" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Input"
+          }
+        }
+      }
+    },
+    "introductionSentence" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It's started 🎉. iOSDC LT! Since we don't have much time, I'll introduce myself and provide additional information here (it's okay if you don't read it lol).\nMy name is Sugiy, and I'm currently working at DeNA, developing a Flutter-based sports live streaming app called play-by-sports (I'm boldly making a live streaming app with Flutter lol).\nI also belong to the Community of Engineer and Life.\n↑The piano🎹 I mentioned earlier is a Yamaha electronic piano called Clavinova CVP-905.\nThis electronic piano can also communicate with MIDI via Bluetooth if you purchase an additional adapter.\n↑The app I implemented this time was because my partner who plays the piano said that there was no way to quantitatively check the strength of the piano's sound, and that he wanted an app that could check it! So I made this app lol.\nMy hobbies are cooking, watching anime, and gardening.\nThe pineapple🍎 I used in last year's presentation is also growing well!\nI like fish, Japanese food, and Japanese sweets, so I made a taiyaki icon!\nI also have a taiyaki maker at home lol.\nI implemented everything with CoreMIDI at first, but it was quite difficult to implement the UI side, so I switched to MIDIKit which also supports UI.\n↑Do Re Mi Fa So La Si is CDEFGAB in English, so the enum case names are defined in English.\nBy the way, Do Re Mi Fa So La Si in Japanese is the Romanization of the Italian Do, Re, Mi, Fa, Sol, La, Si.\nThis slide was made with SwiftUI using SlideKit by @mtj_j🦌.\nThe animation of opening the music score-like book at the beginning and this electronic bulletin board-like UI are custom features I made for this presentation, and everything except UIFont/NSFont is made with SwiftUI.\nNote that this slide cannot be shared as a PDF, so I will share it on TestFlight later. It can be viewed on iOS📱 and macOS💻, and the main text has been made with English Localize.\nBy the way, I have also prepared CI/CD with Xcode Cloud for this slide, and the build and distribution to TestFlight have been automated lol.\nPlease refer to the reference materials for information that is not on the slides.\nIf you have any feedback or questions about the presentation content or materials, please give them to me after the LT or by mentioning me on X!\nAlso, the day after tomorrow, on Monday, August 26th, we will be holding a retrospective event \"After iOSDC Japan 2024\" co-hosted by LINE Yahoo Japan Corporation and DeNA Co., Ltd. at DeNA Shibuya headquarters,\nso if you are attending, please come and talk with us while keeping up the momentum of iOSDC2024!\n↑By the way, the song in the demo video is iPhone alarm sound>Classic>Opening!\nIt's almost time for the LT to end. iOSDC2024 is almost over, but iOSDC2024 is until #iwillblog! Let's enjoy the rest of iOSDC2024 with all our might 🥳"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "始まりました🎉。iOSDCのLT！時間がないので、自己紹介と補足情報はこちらで流します(読まなくても大丈夫です笑)。\n名前はすぎー、現在はDeNAでFlutter製のスポーツ系のライブ配信 play-by-sportsの開発をしています(果敢にライブ配信アプリをFlutterで作っています笑)。\nエンジニアと人生コミュニティにも所属しています\n↑さきほどのピアノ🎹はClavinova CVP-905というYAMAHAの電子ピアノです。\nこの電子ピアノは追加のアダプターを購入すれば、BluetoothでのMIDI通信も実現できます。\n↑今回実装したアプリはピアノを弾く自分のパートナーが、ピアノの音の強さを定量的に確認できる方法がなく、それを確認できるアプリがほしい！と言われたので、作ることになったアプリです笑。\n趣味は料理したり、アニメみたり、家庭菜園したりです。\n去年の発表で使ったパイナップル🍎もスクスク成長中です！\n魚・和食・和菓子が好きなので、たい焼きのアイコンにしました！\n家にたい焼き器もあります笑。\nCoreMIDIで最初は全て実装しましたが、UI側まで実装するのはかなり大変だったので、途中でUIもサポートされてるMIDIKitに切り替えました。\n↑ドレミファソラシは、英語だとCDEFGABなので、enumのcase名は英語で定義しています。\nちなみに日本語のドレミファソラシは、イタリア語のDo, Re, Mi, Fa, Sol, La, Siをローマ字読みしたものです。\nこのスライドは@mtj_jさん🦌のSlideKitを使ったSwiftUI製です。\n冒頭の楽譜風の本を開くアニメーションや、この電光掲示板風のUIは今回の発表のために作った自作の機能で、UIFont/NSFont以外はすべてSwiftUI製です。\nなおこのスライドはPDFで共有できないので、後ほどTestFlightで共有します。iOS📱とmacOS💻で確認できて、本文は英語のLocalizeも対応済です。\nちなみにこのスライド用にXcode CloudでのCI・CDも整備して、ビルドとTestFlightへの配布は自動化済みです笑。\nスライドに載ってない情報は参考資料を確認いただけると。\n発表内容や資料のフィードバック・質問等は、LT後やXでのメンションなどでもらえると助かります！\nあと明後日8/26(月)にLINEヤフー株式会社・株式会社ディー・エヌ・エー共催の振り返りイベント「After iOSDC Japan 2024」をDeNA渋谷本社で実施するので、\nそこに参加する方はぜひiOSDC2024の勢いのままワイワイしながら、お話ししましょう！\n↑ちなみにデモ動画の曲はiPhoneのアラームのサウンド>クラシック>オープニングという曲です！\nそろそろLTが終わりの時間だ。もうすぐiOSDC2024も終わりですが、#iwillblogするまでがiOSDC2024です！残りのiOSDC2024も全力で楽しみましょう🥳"
+          }
+        }
+      }
+    },
+    "iOSDC Lighting Talk" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOSDC Lighting Talk"
+          }
+        }
+      }
+    },
+    "iPad" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPad"
+          }
+        }
+      }
+    },
+    "isOn: Bool(鍵盤を押している or 離している)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "isOn: Bool(Pressing key or hands apart"
+          }
+        }
+      }
+    },
+    "Item Style" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Item Style"
+          }
+        }
+      }
+    },
+    "iWantToPlay" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "So I want to play with something!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "なので何か使って遊びたい！"
+          }
+        }
+      }
+    },
+    "key: PianoKey(Struct)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "key: PianoKey(Struct)"
+          }
+        }
+      }
+    },
+    "keyType: KeyType(enum)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "keyType: KeyType(enum)"
+          }
+        }
+      }
+    },
+    "Layout Protocolを使用し、白黒の2種類のPianoKeyViewを並べ、PianoViewを実装" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Using the Layout Protocol, we implemented a PianoView by arranging two types of PianoKeyView, black and white."
+          }
+        }
+      }
+    },
+    "MidiKit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MidiKit"
+          }
+        }
+      }
+    },
+    "MIDIKit online documentation" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MIDIKit online documentation"
+          }
+        }
+      }
+    },
+    "MIDI規格とは？" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What’s MIDI?"
+          }
+        }
+      }
+    },
+    "octave: Octave(enum)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "octave: Octave(enum)"
+          }
+        }
+      }
+    },
+    "One more thing..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One more thing..."
+          }
+        }
+      }
+    },
+    "Output" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Output"
+          }
+        }
+      }
+    },
+    "PianoKeyView" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PianoKeyView"
+          }
+        }
+      }
+    },
+    "pianoWithMidi" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The digital piano in my house is MIDI compatible."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "我が家の電子ピアノはMIDIの\n規格に対応している"
+          }
+        }
+      }
+    },
+    "playDemoVideo" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play demo video"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "デモ動画を流します"
+          }
+        }
+      }
+    },
+    "playVisionProDemoVideo" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play VisionPro demo video"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Vision Proでのデモ動画を流します!"
+          }
+        }
+      }
+    },
+    "Presented by Sugiy" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Presented by Sugiy"
+          }
+        }
+      }
+    },
+    "README" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "README"
+          }
+        }
+      }
+    },
+    "SlideKit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SlideKit"
+          }
+        }
+      }
+    },
+    "SlideKit helps you make presentation slides by SwiftUI" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SlideKit helps you make presentation slides by SwiftUI"
+          }
+        }
+      }
+    },
+    "someday" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Someday..."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ある日..."
+          }
+        }
+      }
+    },
+    "Structures" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Structures"
+          }
+        }
+      }
+    },
+    "SwiftUIのアニメーションの表現力はすごい" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI animation is very powerful"
+          }
+        }
+      }
+    },
+    "The followings are provided" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The followings are provided"
+          }
+        }
+      }
+    },
+    "timestamp: Date" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "timestamp: Date"
+          }
+        }
+      }
+    },
+    "titleDevelopedApp" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "so I developed an app that works with a piano!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ピアノと連携するアプリを作ってみた！"
+          }
+        }
+      }
+    },
+    "titlePartner" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piano technical supervision: My Partner"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ピアノ技術監修: きょん(パートナー)"
+          }
+        }
+      }
+    },
+    "titlePianoCame" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A digital piano has arrived at my house,"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "我が家に電子ピアノがやってきたので、"
+          }
+        }
+      }
+    },
+    "titleSugiy" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sugiy"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "すぎー/Sugiy"
+          }
+        }
+      }
+    },
+    "Utilities" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilities"
+          }
+        }
+      }
+    },
+    "velocity: Double(音の強さ)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velocity: Double (sound intensity)"
+          }
+        }
+      }
+    },
+    "Views" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Views"
+          }
+        }
+      }
+    },
+    "Vision Pro" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vision Pro"
+          }
+        }
+      }
+    },
+    "Vision Proのお財布へのダメージが大きい😇" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vision Pro is very expensive😇"
+          }
+        }
+      }
+    },
+    "White(白鍵盤)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "White Key"
+          }
+        }
+      }
+    },
+    "You can also customize the design of Item by ItemStyle.You can also customize the design of Item by ItemStyle." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can also customize the design of Item by ItemStyle.You can also customize the design of Item by ItemStyle."
+          }
+        }
+      }
+    },
+    "You can customize the layout of HeaderSlide by HeaderSlideStyle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can customize the layout of HeaderSlide by HeaderSlideStyle"
+          }
+        }
+      }
+    },
+    "ある" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some"
+          }
+        }
+      }
+    },
+    "ガジェットを使って遊ぶのは面白い" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Playing by gadgets is very interesting"
+          }
+        }
+      }
+    },
+    "これはスライドを作った感想(笑)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This is my expression after creating this slides"
+          }
+        }
+      }
+    },
+    "さきほど↓の補足で..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In addition to the ↓ comment below..."
+          }
+        }
+      }
+    },
+    "すぎー/Sugiy" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sugiy"
+          }
+        }
+      }
+    },
+    "そもそもどこの鍵盤がどの音なのかがわからない" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I don't know which key is which music note"
+          }
+        }
+      }
+    },
+    "タイムスタンプ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timestamp"
+          }
+        }
+      }
+    },
+    "データ(3Byte)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data(3Byte)"
+          }
+        }
+      }
+    },
+    "テスト中..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Testing…"
+          }
+        }
+      }
+    },
+    "デバイスとピアノの接続イメージ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The image of connection between device and piano"
+          }
+        }
+      }
+    },
+    "デバイスと電子ピアノなどのデジタル音楽機器間で音楽情報をやり取りするための規格" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "A standard for exchanging music information between devices and digital music equipment such as digital pianos"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A standard for exchanging music information between devices and digital music equipment such as digital pianos"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "デバイスと電子ピアノなどの電子楽器間で音楽情報をやり取りするための規格" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A standard for exchanging music information between devices and electronic musical instruments such as digital pianos"
+          }
+        }
+      }
+    },
+    "とありました" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "was written"
+          }
+        }
+      }
+    },
+    "ピアノUIの仕組み" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How the Piano UI works"
+          }
+        }
+      }
+    },
+    "ピアノの中央の鍵盤(真ん中のド/第4オクターブのド/C4)→60" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piano middle key (middle C/fourth octave C/C4) → 60"
+          }
+        }
+      }
+    },
+    "ピアノめっちゃむずかしい" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Playing the piano is very difficult"
+          }
+        }
+      }
+    },
+    "ピアノ弾くと手と腕がめっちゃ疲れる" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Playing the piano really tires my hands and arms."
+          }
+        }
+      }
+    },
+    "ピアノ打鍵時に取得できる情報" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Information that can be obtained when striking the piano keys"
+          }
+        }
+      }
+    },
+    "まとめ・感想" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wrap up"
+          }
+        }
+      }
+    },
+    "もっと色々試してみたい！" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I want to try more things!"
+          }
+        }
+      }
+    },
+    "今回はCore MIDIの3rd Party製のラッパーのMIDIKitというライブラリを使っています" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This time I'm using a library called MIDIKit, a 3rd party wrapper for Core MIDI."
+          }
+        }
+      }
+    },
+    "前々々職(2018~)からiOSエンジニア。元々中高の社会科教員志望" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I have been an iOS engineer since 2018, starting from my position three jobs ago. Originally, I aspired to be a social studies teacher for junior high and high school."
+          }
+        }
+      }
+    },
+    "去年発表したパイナップル🍎はベランダですくすく成長中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The pineapple🍎 that we presented last year is growing well on the balcony."
+          }
+        }
+      }
+    },
+    "参考資料" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reference"
+          }
+        }
+      }
+    },
+    "実物と実装したUIの比較" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparison of the actual UI and the implemented UI"
+          }
+        }
+      }
+    },
+    "日..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "day…"
+          }
+        }
+      }
+    },
+    "業務でSwift使ってないので、Swift力の低下が深刻" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I don't use Swift in my work, so my Swift skills have seriously declined."
+          }
+        }
+      }
+    },
+    "現職はDeNAで、Flutter製のスポーツ系のライブ配信アプリを開発中" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Working at DeNA, developing a live sports streaming app using Flutter"
+          }
+        }
+      }
+    },
+    "第-1~第9オクターブ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Octaves -1 to 9"
+          }
+        }
+      }
+    },
+    "結婚したので、パートナーの電子ピアノが\n我が家にやってきた" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I got married and my partner's digital piano came to my house."
+          }
+        }
+      }
+    },
+    "趣味: 美味しいものを食べる、料理、アニメ/漫画、ガジェット収集" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hobbies: Eating delicious food, cooking, anime/manga, collecting gadgets"
+          }
+        }
+      }
+    },
+    "鍵盤を押した or 離した" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pressing keys or hands apart"
+          }
+        }
+      }
+    },
+    "音の強さ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strength of sound"
+          }
+        }
+      }
+    },
+    "音の鳴り始めと終わり、音の強さ、音名などの情報をデジタルデータとして送受信" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Information such as the start and end of a sound, sound intensity, and note name is transmitted and received as digital data."
+          }
+        }
+      }
+    },
+    "音名/弾いた鍵盤の位置(Note番号): 0~127の数字" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Music Note name/position of the played key (Note number): Number from 0 to 127"
+          }
+        }
+      }
+    },
+    "音楽情報(PianoKeyStroke)の実装" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Music information (PianoKeyStroke) implementation"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
